@@ -2,6 +2,8 @@ bin
 include
 lib*
 share
-**/pyvenv.cfg/**
 **/.ipynb_checkpoints/**
 .idea
+TOKEN.py
+__pycache__
+pyvenv.cfg
