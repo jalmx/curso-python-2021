@@ -24,3 +24,12 @@ print(camiones)
 camiones['camion1'] = "camioncito"# modificando
 
 print(camiones)
+
+# crear un diccionario vacio
+# agregar los siguientes elementos
+# llave : valor
+# golosina1 : sabrita
+# golosina2 : coca
+# golosina3 : gansito
+# agregar 2 elementos mas, que tu quieras
+# imprimir el diccionario
