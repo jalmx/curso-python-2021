@@ -1,0 +1,2 @@
+estoy escribiendo el archivo plano
+esto es el manejo de archivos en python

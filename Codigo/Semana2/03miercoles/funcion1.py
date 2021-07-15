@@ -13,7 +13,7 @@ def al_cuadrado(x):
     print( f"El cuadrado de {x} es {cuadrado}" )
 
 def suma(a, b):
-    print(a+b)
+    print(a + b)
 
 saludo()
 
