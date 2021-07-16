@@ -1,0 +1,1 @@
+rm -rf bin include lib* share pyvenv.cfg
